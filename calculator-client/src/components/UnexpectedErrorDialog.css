@@ -1,0 +1,12 @@
+.ui.modal {
+    padding: 3em;
+}
+
+.ui.modal .header {
+    border-bottom: none;
+}
+
+.ui.modal .actions {
+    background-color: transparent;
+    border-top: none;
+}

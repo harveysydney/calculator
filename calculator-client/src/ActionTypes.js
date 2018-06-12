@@ -1,0 +1,2 @@
+export const UPDATE_RESULT = "UPDATE_RESULT";
+export const UPDATE_HISTORY = "UPDATE_HISTORY";

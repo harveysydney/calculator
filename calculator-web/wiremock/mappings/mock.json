@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/taxrate/2016"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json",
+      "Cache-Control": "no-cache"
+    },
+    "body": "{\"taxTiers\": [{\"from\": 0,\"to\": 18200,\"baseTax\": 0,\"taxPerDollar\": 0},{\"from\": 18201,\"to\": 37000,\"baseTax\": 0,\"taxPerDollar\": 0.19},{\"from\": 37001,\"to\": 87000,\"baseTax\": 3572,\"taxPerDollar\": 0.325},{\"from\": 87001,\"to\": 180000,\"baseTax\": 19822,\"taxPerDollar\": 0.37},{\"from\": 180001,\"to\": -1,\"baseTax\": 54232,\"taxPerDollar\": 0.45}]}"
+  }
+}
